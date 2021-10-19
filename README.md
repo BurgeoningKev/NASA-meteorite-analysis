@@ -15,15 +15,15 @@ Following is the description of the column heading of the dataset:
 * **nametype:** one of:
 -- valid: a typical meteorite
 -- relict: a meteorite that has been highly degraded by weather on Earth
-**recclass:** the class of the meteorite; one of a large number of classes based on physical, chemical, and other characteristics (see the Wikipedia article on meteorite classification for a primer)
-**mass:** the mass of the meteorite, in grams
-**fall:** whether the meteorite was seen falling, or was discovered after its impact; one of:
+* **recclass:** the class of the meteorite; one of a large number of classes based on physical, chemical, and other characteristics (see the Wikipedia article on meteorite classification for a primer)
+* **mass:** the mass of the meteorite, in grams
+* **fall:** whether the meteorite was seen falling, or was discovered after its impact; one of:
 -- Fell: the meteorite's fall was observed
 -- Found: the meteorite's fall was not observed
-**year:** the year the meteorite fell, or the year it was found (depending on the value of fell)
-**reclat:** the latitude of the meteorite's landing
-**reclong:** the longitude of the meteorite's landing
-**GeoLocation:** a parentheses-enclose, comma-separated tuple that combines reclat and reclong
+* **year:** the year the meteorite fell, or the year it was found (depending on the value of fell)
+* **reclat:** the latitude of the meteorite's landing
+* **reclong:** the longitude of the meteorite's landing
+* **GeoLocation:** a parentheses-enclose, comma-separated tuple that combines reclat and reclong
 
 
 I encourage you to fork it out and add more analysis and let me know. There's always more to learn!
