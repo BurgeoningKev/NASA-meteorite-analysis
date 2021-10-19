@@ -9,9 +9,9 @@ The aim of this file is to analyse a dataset that compiles the characteristics o
 
 Following is the description of the column heading of the dataset:
 
-'''
-**name:** the name of the meteorite
-**id:** a unique identifier for the meteorite
+
+-**name:** the name of the meteorite
+-**id:** a unique identifier for the meteorite
 **nametype:** one of:
 -- valid: a typical meteorite
 -- relict: a meteorite that has been highly degraded by weather on Earth
@@ -24,6 +24,6 @@ Following is the description of the column heading of the dataset:
 **reclat:** the latitude of the meteorite's landing
 **reclong:** the longitude of the meteorite's landing
 **GeoLocation:** a parentheses-enclose, comma-separated tuple that combines reclat and reclong
-'''
+
 
 I encourage you to fork it out and add more analysis and let me know. There's always more to learn!
