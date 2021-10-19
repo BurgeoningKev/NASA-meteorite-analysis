@@ -10,9 +10,9 @@ The aim of this file is to analyse a dataset that compiles the characteristics o
 Following is the description of the column heading of the dataset:
 
 
--**name:** the name of the meteorite
--**id:** a unique identifier for the meteorite
-**nametype:** one of:
+* **name:** the name of the meteorite
+* **id:** a unique identifier for the meteorite
+* **nametype:** one of:
 -- valid: a typical meteorite
 -- relict: a meteorite that has been highly degraded by weather on Earth
 **recclass:** the class of the meteorite; one of a large number of classes based on physical, chemical, and other characteristics (see the Wikipedia article on meteorite classification for a primer)
